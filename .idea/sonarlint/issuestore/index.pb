@@ -7,3 +7,5 @@ U
 %contracts/docunent-certificaiton.clar,0/9/09d6ab549b5e929af2df1be65fd6a5d51cbb362e
 T
 $contracts/exporter-verification.clar,d/e/decf870fbd29770a32e8ad084fd4222bd522f49e
+T
+$contracts/payment-authorization.clar,3/e/3e247d8497df1f7adeaac685c724fc831d47d9bf
