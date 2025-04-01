@@ -5,3 +5,5 @@ Q
 !contracts/customs-compliance.clar,3/d/3daf57a6b0853f157cd0e36033d953a2827e7032
 U
 %contracts/docunent-certificaiton.clar,0/9/09d6ab549b5e929af2df1be65fd6a5d51cbb362e
+T
+$contracts/exporter-verification.clar,d/e/decf870fbd29770a32e8ad084fd4222bd522f49e
